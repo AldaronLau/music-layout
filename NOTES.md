@@ -1,6 +1,11 @@
 # Notes
  - Unit of measurement: "Stave Space" - The distance between two stave
-   lines
+   lines (this is similar to what an "em" is for text typesetting).  I'm going
+   to abbreviate it as SS.
+ - I'm going to use the term "centerline" for the position of the middle stave
+   line, "ascent" for the number of SS above the "centerline", and "descent" for
+   the number of SS below the "centerline".
+ - Indent a clef one SS from the start of the stave lines.
 
 # Stem Direction
 An alternative style for a stave with lyrics is all stems are up.
