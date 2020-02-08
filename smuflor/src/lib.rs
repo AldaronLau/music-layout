@@ -6,8 +6,8 @@
 
 #![warn(missing_docs)]
 #![doc(
-    html_logo_url = "https://scorefall.com/scorefall_favicon.svg",
-    html_favicon_url = "https://scorefall.com/scorefall_favicon.svg"
+    html_logo_url = "https://studio.scorefall.com/favicon.png",
+    html_favicon_url = "https://studio.scorefall.com/favicon.png"
 )]
 
 mod view;
