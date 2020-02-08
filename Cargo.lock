@@ -5,6 +5,6 @@ name = "render"
 version = "0.1.0"
 
 [[package]]
-name = "smufly"
+name = "smuflor"
 version = "0.1.0"
 

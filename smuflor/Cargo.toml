@@ -1,5 +1,5 @@
 [package]
-name = "smufly"
+name = "smuflor"
 version = "0.1.0"
 authors = ["Jeron Aldaron Lau <jeronlau@plopgrizzly.com>"]
 edition = "2018"
